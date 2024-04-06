@@ -61,12 +61,13 @@ I'm Vedika, an AI Engineer with a passion for solving real-world problems using 
 
 ### 📫 How to reach me
 
-- **Email**: vedikas3012@gmail.com | vedikas@bu.edu
+- **Email**: vedikas3012@gmail.com
 - **Phone**: (+1) (857)-260-8766
 
 ### Connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/vedika-srivastava/)
+- [Visit me](https://sites.google.com/view/vedika-srivastava/about)
 - [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=cPLpZOYAAAAJ)
 - [Tumblr](https://sizzlenut.tumblr.com/)
 
