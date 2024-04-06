@@ -7,10 +7,10 @@ I'm Vedika, an AI Engineer with a passion for solving real-world problems using 
 ### 📚 Education
 
 - **Master of Science in Artificial Intelligence**
-  - Boston University-Graduate School of Arts and Science, Sep 2022 - Jan 2024
+  - Boston University-Graduate School of Arts and Science
   - GPA: 3.78 / 4
 - **Bachelor of Technology in Electronics and Communication**
-  - Dr. Vishwanath Karad MIT World Peace University, Jul 2018 - Jun 2022
+  - Dr. Vishwanath Karad MIT World Peace University
   - CGPA: 9.79 / 10, Bronze Medalist
 
 ### 💼 Experience
