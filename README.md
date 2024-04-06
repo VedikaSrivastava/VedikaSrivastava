@@ -67,7 +67,7 @@ I'm Vedika, an AI Engineer with a passion for solving real-world problems using 
 ### Connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/vedika-srivastava/)
-- [Visit me](https://sites.google.com/view/vedika-srivastava/about)
+- [Visit me](https://vedikasrivastava.github.io/)
 - [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=cPLpZOYAAAAJ)
 - [Tumblr](https://sizzlenut.tumblr.com/)
 
