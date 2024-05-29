@@ -15,7 +15,8 @@ I'm Vedika, an AI Engineer with a passion for solving real-world problems using 
 
 ### 💼 Experience
 
-- **AI Engineer I**, Time Machine Learning Inc, Boston, USA (Since Mar 2024)
+- **Agentic AI Engineer**, Idea by Design Corp., Boston, USA (Since May 2024)
+- **AI Engineer I**, Time Machine Learning Inc, Boston, USA (Mar 2024 - Jun 2024)
 - **Teaching Assistant**, Boston University College of Arts and Science, Boston, USA (Jan 2023 - Dec 2023)
 - **Data Science Fellow**, Institute of Global Sustainability, Boston, USA (May 2023 - Jul 2023)
 - **SDE Research Intern**, IBM Integrated Software Labs, Pune, IN (Jan 2022 - Jul 2022)
