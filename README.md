@@ -55,9 +55,6 @@ My journey in technology has taken me from diving deep into Electronics and Comm
 ![Vedika's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedikasrivastava&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedikasrivastava&layout=compact&theme=radical)
 
-### 💻 GitHub Streaks
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vedikasrivastava&theme=dark)
-
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedika-srivastava/)
